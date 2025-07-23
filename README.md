@@ -124,6 +124,6 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
 ## 🔗 Links
-- 🌐 **Live Project**: [https://pixora-azure.vercel.app/](Open)
-- 👨‍💻 **Portfolio**: [https://www.linkedin.com/in/adityaverma0101](Open)
+- 🌐 **Live Project**: [Open](https://pixora-azure.vercel.app/)
+- 👨‍💻 **Portfolio**: [Open](https://www.linkedin.com/in/adityaverma0101)
 #
