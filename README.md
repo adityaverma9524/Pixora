@@ -72,7 +72,7 @@ Pixora is a modern AI-powered SaaS platform for intelligent image transformation
 ```bash
 git clone https://github.com/your-username/pixora.git
 cd pixora
-
+```
 **Installation**
 
 Install the project dependencies using npm:
