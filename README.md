@@ -18,8 +18,6 @@ Pixora is a modern AI-powered SaaS platform for intelligent image transformation
 
 **Pixora** is a production-ready AI image SaaS tool that supports image restoration, object removal, recoloring, background removal, and much more. With powerful cloud integrations, payment handling, and account-level credit systems, Pixora is perfect for developers building real-world apps, startups, or portfolios.
 
-> Looking to build your own AI image product? This repo is your blueprint.
-
 ---
 
 ## ⚙️ Tech Stack
