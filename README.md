@@ -10,11 +10,7 @@ Pixora is a modern AI-powered SaaS platform for intelligent image transformation
 - [⚙️ Tech Stack](#️-tech-stack)
 - [🔋 Features](#-features)
 - [🤸 Quick Start](#-quick-start)
-- [🕸️ Snippets](#-snippets)
 - [🔗 Links](#-links)
-- [🚀 More](#-more)
-- [📢 Tutorial](#-tutorial)
-- [🧠 About](#-about)
 
 ---
 
